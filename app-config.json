@@ -1,0 +1,8 @@
+{
+  "apiBaseUrl": "https://disposition-wyoming-gain-gates.trycloudflare.com",
+  "apiVersion": 1,
+  "minAppVersion": "5.8",
+  "forceUpdate": false,
+  "updateMessage": "",
+  "lastUpdated": "2025-03-19T15:13:00Z"
+}
